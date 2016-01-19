@@ -99,7 +99,7 @@ public enum Stock {
 			}
 		}
 		
-		 Time 15 minutes ago
+		// Time 15 minutes ago
 		Calendar now = Calendar.getInstance();
 		now.add(Calendar.MINUTE, -15);
 		Date date = now.getTime();
